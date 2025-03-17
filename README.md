@@ -15,4 +15,4 @@ During testing, defects were logged with **detailed reproduction steps and sever
 ## Selenium Automation Script
 [here](https://docs.google.com/document/d/1wNvBU00lPVTsOnIawIU0CqucWjz-qwk2QCuzeopM7gk/edit?usp=sharing)
 ## Video link
-[here]()
+[here](https://youtu.be/YezfXPdGmQY)
