@@ -14,3 +14,5 @@ The **Test Plan** describes the testing approach, features to be tested, and the
 During testing, defects were logged with **detailed reproduction steps and severity levels** to efficiently track and resolve issues. You can find the **full bug report [here](https://docs.google.com/spreadsheets/d/1N-WpT86vZ1mXXdZyvXRIw-kyIG73Q9o9d3ghhEhEE8E/edit?usp=sharing)
 ## Selenium Automation Script
 [here](https://docs.google.com/document/d/1wNvBU00lPVTsOnIawIU0CqucWjz-qwk2QCuzeopM7gk/edit?usp=sharing)
+## Video link
+[here]()
